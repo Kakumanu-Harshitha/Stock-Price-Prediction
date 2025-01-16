@@ -2,11 +2,17 @@
 Developed a model for stock price prediction, leveraging time series data to capture temporal dependencies and forecast future prices. The model utilizes historical stock prices to train a deep learning network, ensuring accurate trend predictions and informed investment strategies.
 # Steps to Build:
 1.Import Libraries
+
 2.Import Dataset
+
 3.Data Preprocessing
+
 4.Create Dataset
+
 5.Build a Model
+
 6.visualize the final Dataset
+
 # Applications:
 1. Investment Decisions
 Predicting stock prices helps investors decide when to buy, hold, or sell stocks to maximize their returns. By understanding future price trends, investors can better time their actions to achieve financial goals.
@@ -22,9 +28,13 @@ It aids in understanding broader market trends and sentiment, helping organizati
 
 5. Resource Optimization
 Institutional investors, hedge funds, and asset managers use prediction models to optimize their resource allocation, ensuring capital is invested in the most promising opportunities.
+
 References:
+
 Reference from kaggle: https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
+
 Requirements:
+
 Pandas Numpy Matplotlib tensorflow keras
 
 programming languages:
