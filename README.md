@@ -22,5 +22,14 @@ It aids in understanding broader market trends and sentiment, helping organizati
 
 5. Resource Optimization
 Institutional investors, hedge funds, and asset managers use prediction models to optimize their resource allocation, ensuring capital is invested in the most promising opportunities.
+References:
+Reference from kaggle: https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
+Requirements:
+Pandas Numpy Matplotlib tensorflow keras
 
+programming languages:
+Python
+
+owner:
+[Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
 
